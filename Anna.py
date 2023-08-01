@@ -312,6 +312,9 @@ def TaskExe():
         elif 'my world' in query:
             speak("Yours Mom Dad is your World!")
 
+        elif 'my favourite colour' in query:
+            speak("You favourite Colour is Black1")
+
         elif 'my favourite hero' in query:
             speak("Prabhas Is Your Most Favourit Hero Boss")
 
