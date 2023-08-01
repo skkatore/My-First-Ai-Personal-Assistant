@@ -309,10 +309,13 @@ def TaskExe():
         elif 'good girl' in query:
             speak("Thank you boss!")
 
+        elif 'my world' in query:
+            speak("Yours Mom Dad is your World!")
+
         elif 'my favourite hero' in query:
             speak("Prabhas Is Your Most Favourit Hero Boss")
 
-        elif "my favourite singer" in query:
+        elif 'my favourite singer' in query:
             speak("Guru Randhava Is Your Favourit Singer")
 
         elif 'youtube search' in query:
